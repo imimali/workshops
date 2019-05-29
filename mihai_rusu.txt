@@ -1,0 +1,4 @@
+Povesti creative;lectura;25;08:30;50
+Pian;muzica;12;11:00;60
+Poezie;lectura;25;12:15;30
+Instrumente neconventionale;muzica;12;13:00;90

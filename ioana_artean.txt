@@ -1,0 +1,3 @@
+Poezie;lectura;25;12:15;30
+Instrumente neconventionale;muzica;12;13:00;90
+Imprimare;pictura;4;15:00;30
